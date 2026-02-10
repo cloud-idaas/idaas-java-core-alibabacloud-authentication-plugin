@@ -13,6 +13,29 @@
     <version>0.0.1-beta</version>
     <packaging>jar</packaging>
 
+    <name>idaas-java-core-alibabacloud-authentication-plugin</name>
+    <description>Alibaba Cloud IDaaS SDK PLUGIN</description>
+    <url>https://github.com/cloud-idaas/idaas-java-core-alibabacloud-authentication-plugin</url>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Cloud IDaaS</name>
+            <email>cloudidaas@list.alibaba-inc.com</email>
+            <url>https://github.com/cloud-idaas</url>
+        </developer>
+    </developers>
+    <scm>
+        <url>https://github.com/cloud-idaas/idaas-java-core-alibabacloud-authentication-plugin</url>
+        <connection>https://github.com/cloud-idaas/idaas-java-core-alibabacloud-authentication-plugin.git</connection>
+        <developerConnection>https://github.com/cloud-idaas</developerConnection>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>com.cloud-idaas</groupId>
